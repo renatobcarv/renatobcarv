@@ -40,6 +40,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renatobcarv&theme=github_dark"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renatobcarv&theme=github_dark"/>
+</p>
 
 ### 🚀 Projetos
 
@@ -56,13 +62,6 @@ SaaS para análise de dados empresariais com IA, focado em identificar oportunid
 - Desenvolvimento de sistema de patrocínio com rede comissionada  
 - Execução de lançamentos e tráfego pago  
 - 📈 Faturamento de R$6.000/mês operando de forma solo  
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=renatobcarv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatobcarv&layout=compact&theme=radical)
 
 ---
 
