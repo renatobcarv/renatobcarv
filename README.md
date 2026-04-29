@@ -47,19 +47,7 @@
 
 ### 🚀 Projetos
 
-[![Valence](https://github-readme-stats.vercel.app/api/pin/?username=renatobcarv&repo=valence&theme=radical)](https://github.com/renatobcarv/valence)
-
-SaaS para análise de dados empresariais com IA, focado em identificar oportunidades de receita e automatizar decisões.
-
----
-
-### 💼 Experiência
-
-**VOYDRA — Projeto próprio**  
-- Criação e estruturação completa de marca digital  
-- Desenvolvimento de sistema de patrocínio com rede comissionada  
-- Execução de lançamentos e tráfego pago  
-- 📈 Faturamento de R$6.000/mês operando de forma solo  
+em anexo abaixo do perfil 😁
 
 ---
 
